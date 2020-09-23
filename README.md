@@ -1,2 +1,2 @@
-# Python
-basic coded repo
+# FinAnanlysis
+Financial analysis and data slicing 
